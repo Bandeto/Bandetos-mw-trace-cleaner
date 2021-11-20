@@ -4,6 +4,24 @@
 this is my mw and coldwar trace cleaner
 
 
+ps.
+
+
+change to your mw install location
+
+del /s /f "D:\Call of Duty Modern Warfare\Data\config"
+del /s /f "D:\Call of Duty Modern Warfare\Data\data\shmem"
+del /s /f "D:\Call of Duty Modern Warfare\Data\indices"
+del /s /f "D:\Call of Duty Modern Warfare\main\data0.dcache"
+del /s /f "D:\Call of Duty Modern Warfare\main\data1.dcache"
+del /s /f "D:\Call of Duty Modern Warfare\main\toc1.dcache"
+del /s /f "D:\Call of Duty Modern Warfare\main\toc0.dcache"
+del /s /f "D:\Call of Duty Modern Warfare\main\recipes\cmr_hist"
+del /s /f "D:\Call of Duty Modern Warfare\xpak_cache"
+del /s /f "D:\Call of Duty Modern Warfare\telescopeCache"
+
+
+
 code: 
 
 
